@@ -127,7 +127,7 @@ class _SamarthCardState extends State<SamarthCard> {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         const Text(
-                          'Ganesh Dhage',
+                          'Ganesh',
                           style: TextStyle(
                             fontSize: 46,
                             fontWeight: FontWeight.w900,
